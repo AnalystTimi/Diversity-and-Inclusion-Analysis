@@ -26,7 +26,18 @@ The objective of this project is to define relevant KPIs in hiring promotion, pe
 
 ## Dashboard
 ![diversity and inclusion dashboard 1](https://github.com/user-attachments/assets/ba9c60b0-8898-452e-905c-d8fa837e9815)
+
 ![diversity and inclusion dashboard 2](https://github.com/user-attachments/assets/c99c4dca-91b6-485c-a6f5-dc10af6464a9)
+
+## Project Insight
+-	The percentage of women hired is more than men by 3.04%
+-	There are more male employees than female employees in all the department except Human Resources (HR)
+-	More men were promoted than female
+-	There is slight difference of 0.02% in the average performance rating of men and women
+-	Men’s percentage turn over is more than that of the women by 18%
+## Final conclusion
+
+
 
 
 
