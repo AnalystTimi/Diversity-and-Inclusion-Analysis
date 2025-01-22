@@ -10,7 +10,7 @@ The objective of this project is to define relevant KPIs in hiring promotion, pe
 -	Number of women
 -	Percentage of employees promoted (FY21)
 -	Percentage of women promoted
--	Percentage of hires men
+-	Percentage of hired men
 -	Percentage of turnover
 -	Average performance rating: men
 -	Average performance rating: women
