@@ -1,2 +1,4 @@
-# Diversity-and-Inclusion-Analysis
-I completed a task in Power BI by leveraging calculated fields and designing two dashboards to analyze the data. The process involved multiple stages, including data cleaning, visualization, and interpretation.
+#Diversity-and-Inclusion-Analysis (Data Visualization using Power BI)
+##Project Objective
+The objective of this project is to define relevant KPIs in hiring promotion, performance and turnover and create a visualization. Also, to find out the causes of slow progress.
+
