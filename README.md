@@ -25,6 +25,8 @@ The objective of this project is to define relevant KPIs in hiring promotion, pe
 -	Create a dashboard that include all the KPIs and other charts showing the relationships between two more variables including slicers.
 
 ## Dashboard
-screenshothttps://github.com/AnalystTimi/Diversity-and-Inclusion-Analysis/commit/7948e5de69218bad2ea6b5459c807222ccadacad
-https://github.com/AnalystTimi/Diversity-and-Inclusion-Analysis/commit/7948e5de69218bad2ea6b5459c807222ccadacad
+![diversity and inclusion dashboard 1](https://github.com/user-attachments/assets/ba9c60b0-8898-452e-905c-d8fa837e9815)
+![diversity and inclusion dashboard 2](https://github.com/user-attachments/assets/c99c4dca-91b6-485c-a6f5-dc10af6464a9)
+
+
 
