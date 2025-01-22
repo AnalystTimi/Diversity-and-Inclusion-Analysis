@@ -4,3 +4,14 @@ The objective of this project is to define relevant KPIs in hiring promotion, pe
 
 ## Dataset used
 - <a href="https://github.com/AnalystTimi/Diversity-and-Inclusion-Analysis/commit/7948e5de69218bad2ea6b5459c807222ccadacad">Dataset</a>
+
+## Questions (KPIs)
+-	Number of men
+-	Number of women
+-	Percentage of employees promoted (FY21)
+-	Percentage of women promoted
+-	Percentage of hires men
+-	Percentage of turnover
+-	Average performance rating: men
+-	Average performance rating: women
+-	Dashboard interaction [link]
