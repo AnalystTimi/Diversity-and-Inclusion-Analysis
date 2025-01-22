@@ -15,4 +15,4 @@ The objective of this project is to define relevant KPIs in hiring promotion, pe
 -	Average performance rating: men
 -	Average performance rating: women
 -	Dashboard interaction <a href="https://github.com/AnalystTimi/Diversity-and-Inclusion-Analysis/blob/main/diversity%20and%20inclusion%20dashboard%201.png\">Dashboard 1 </a>
-- <a href="https://github.com/AnalystTimi/Diversity-and-Inclusion-Analysis/blob/main/diversity%20and%20inclusion%20dashboard%202.png">Dashboard </a>
+<a href="https://github.com/AnalystTimi/Diversity-and-Inclusion-Analysis/blob/main/diversity%20and%20inclusion%20dashboard%202.png">Dashboard 2 </a>
