@@ -31,12 +31,17 @@ The objective of this project is to define relevant KPIs in hiring promotion, pe
 ![diversity and inclusion dashboard 2](https://github.com/user-attachments/assets/c99c4dca-91b6-485c-a6f5-dc10af6464a9)
 
 ## Project Insight
--	The percentage of women hired is more than men by 3.04%
--	There are more male employees than female employees in all the department except Human Resources (HR)
--	More men were promoted than female
--	There is slight difference of 0.02% in the average performance rating of men and women
--	Men’s percentage turn over is more than that of the women by 18%
+
+- Hiring and Department Distribution: The organization maintains a nearly balanced hiring rate, with 51.52% women and 48.48% men. However, gender distribution varies across departments, with Operations and Sales & Marketing employing the highest numbers of both genders, while departments like Finance and HR show significantly lower representation.
+-	Regional Representation: Most employees are concentrated in Europe and Switzerland, with other regions like Asia Pacific and the Middle East having minimal representation. This suggests a need to enhance diversity in global operations.
+-	Promotions: Men have a slightly higher promotion rate (11.19%) compared to women (8.78%). Promotions are distributed across job levels, with women slightly underrepresented in senior positions.
+-	Performance Ratings: The average performance ratings for men (2.58) and women (2.56) are nearly identical, indicating parity in performance evaluation.
+-	Turnover: The overall turnover rate is high at 86.80%, with men accounting for 59% and women 41% of the turnover. The majority of turnover occurs among younger employees aged 20–29, highlighting potential retention challenges for early-career professionals.
+-	Age Distribution: The workforce is predominantly young, with a majority aged 20–39, suggesting opportunities to diversify by age and strengthen efforts to retain younger employees.
+
 ## Final conclusion
+
+The organization demonstrates a strong commitment to gender diversity but could focus on enhancing inclusion in specific departments, regions, and senior leadership roles. Addressing high turnover rates and retaining younger talent are also critical areas for improvement to ensure long-term sustainability and growth.
 
 
 
